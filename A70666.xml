@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocency cleared the liberties and priviledges of Gods people for assembling together in his fear to wait upon him very calmly expostulated and their refusal of all oaths in meekness vindicated</title>
+            <author>Mason, Martin, fl. 1650-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70666</idno>
+            <idno type="STC">Wing M930</idno>
+            <idno type="STC">ESTC R3559</idno>
+            <idno type="EEBO-CITATION">13674237</idno>
+            <idno type="OCLC">ocm 13674237</idno>
+            <idno type="VID">101212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101212)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocency cleared the liberties and priviledges of Gods people for assembling together in his fear to wait upon him very calmly expostulated and their refusal of all oaths in meekness vindicated</title>
+                  <author>Mason, Martin, fl. 1650-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at the end: By a sufferer for truths sake.</note>
+                  <note>Written by Martin Mason.  Cf. DNB.</note>
+                  <note>Place and probable date of publication from Wing.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101212:1"/>
+            <pb n="1" facs="tcp:101212:1" rendition="simple:additions"/>
+            <head>INNOCENCY cleared; The Liberties and Priviledges of Gods People for aſſembling together in his Fear to wait upon him, very calmly expoſtulated; and their Refuſal of all Oaths, in meekneſs vindicated.</head>
+            <p>
+               <hi>THat there was a golden time for Holineſs of life and good Govern<g ref="char:EOLhyphen"/>ment before</hi> Moſes <hi>had a being upon earth, or writ his Books, there's none that are truly wiſe can well be ſo bold as to deny without a Bluſh.</hi>
+            </p>
+            <p n="2">2. <hi>That the Riſe of all outward Government was occaſioned by the Peoples declining from that of God in them, and ſo running into carnal liberty, luſt, and profane licentionſneſs, is a Truth which cannot be ſhaken.</hi>
+            </p>
+            <p n="3">3. <hi>That the end of all external Government, was, and is, to Bridle the Wic<g ref="char:EOLhyphen"/>ked, to be a Terror to Evil-doers, the Preſervation of the People in Peace and Tranquility, and a Protection, Praiſe and Encouragement of thoſe who do well: where true Wiſdom rules, will not be contradicted.</hi>
+            </p>
+            <p>THeſe three Particulars being granted me, Come, let us reaſon together in Meekneſs and Moderation, O ye Children of Men that are now in Authority, and tell me what it was that induced men to live in the fear of the Lord, and peaceably one with another be<g ref="char:EOLhyphen"/>fore the Reins of Political Government, or the Rod of that Authority had its Inſtitution, or the Bible had a being, if it was not a Princi<g ref="char:EOLhyphen"/>ple of God, or a meaſure of himſelf in every Mortal which inwardly led him to be obedient to his Maker?</p>
+            <p>The children of Men in that golden age of the World, living the life of Innocency and true Holineſs, needed not then an outward Law to reſtrain them from Vice or Vanity; were (by the inward Law of God written in their hearts, and by their Love and Obedience there<g ref="char:EOLhyphen"/>unto) a Law unto themſelves.</p>
+            <p>
+               <hi>Luſt</hi> was mortified, and was not ſuffered to live in them; and there<g ref="char:EOLhyphen"/>fore could not lord it over them: <hi>Covetouſneſs</hi> had not crept into their hearts, each man lived comfortably upon the Creation, and was contented with his Portion, no man ſought then to lord it over one another, every man ſought after the good of his Fellow-Creature as his own; while this inward Voice or Law of God was regarded by them, all Lording Tyranny was a ſtranger to them.</p>
+            <p>But after <hi>Luſt</hi> entred into the hearts of men and prevailed over them, that they would be no longer kept within the pale of this holy Principle, Gods Spirit in their hearts, which ſounded forth the Will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Mind of God, unto them, which was there placed to be their Law
+<pb n="2" facs="tcp:101212:2"/>and Law-giver, whom they were to obey in all things: Then God raiſed up himſelf an outward Inſtrument, and gave him Wiſdom and Power to govern his People, and to make Lawes and Statutes for them, which they were not to tranſgreſs, but be ſubject to; and this Government was intended and ſet up for a Reſtraint to the wilde Na<g ref="char:EOLhyphen"/>ture to make it tame, and bring it under the Yoak, ſubject to juſt Au<g ref="char:EOLhyphen"/>thority, to deal juſtly, and uprightly one with another, and to live peaceably in their generation, and inoffenſively to all men, and ſo be a Bridle to that licentious, bruitiſh, profane ſpirit, which would riſe up againſt, perſecute and worry Gods innocent people: And ſo this Authority proved an incouragement unto, and a protection (under God) of Gods harmleſs Flock.</p>
+            <p>Now let Gods witneſs ariſe in all your conſciences, and in meek<g ref="char:EOLhyphen"/>neſs, without prejudice ponder the proceedings of the preſent Au<g ref="char:EOLhyphen"/>thority againſt the innocent ſuffering people, ſcornfully called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> and compare the Principle and Practices of theſe perſecuted people with that which I have above premiſed, and ſee if this Autho<g ref="char:EOLhyphen"/>rity do rightly anſwer the end of the Primitive Inſtitution of Govern<g ref="char:EOLhyphen"/>ment in its perſecuting of this innocent people: And honeſtly conſi<g ref="char:EOLhyphen"/>der, how often have we publiſhed to the world, That we truly own the righteous Law of God written in our hearts, His Light in our conſciences to be our Leader, our Law-giver, the Line or Rule of our life, that holy Seed which never ſinned, but ever ſuffered by the ſeed of evil-doers, becauſe it ever bare its teſtimony in the heart of man againſt all iniquity, do we believe in and obey; which ſuffered with<g ref="char:EOLhyphen"/>out the Gates of <hi>Jeruſalem,</hi> and witneſſed a good confeſſion before <hi>Pontius Pilate,</hi> Chriſt <hi>in us the hope of Glory:</hi> In him we do believe, who moveth in our hearts to Holineſs, Patience, Mercy, Meekneſs, Peace with all men, and love to Enemies, and leadeth his Lambs into all Truth; whoſe Kingdom is not of this world, and therefore with a carnal Weapon connot we his Subjects (nor ever could ſince we were in our mindes and affections ſeparated from the World, and turned to God) fight for the upholding of it. How often have we been taxed for a ſeditious and traiterous people? and yet none of this trumpery never could, nor ever ſhall be juſtly proved againſt us. How many falſe aſperſions have been caſt upon us, as if we had been Conſpirators againſt the Peace of the Kingdom? How often have the wicked people invented Lies againſt us, and ſome fooliſh people been afraid of us, as if we would have riſen, and their Throats ſhould have been cut by us? And all this by that ſubtile ſpirit which ſeeks to mur<g ref="char:EOLhyphen"/>ther and deſtroy us; and yet how often hath the Lord cleared the in<g ref="char:EOLunhyphen"/>nocency of us? Yea<g ref="char:punc">▪</g> hath not the King and his Council (how und<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſervedly
+<pb n="3" facs="tcp:101212:2"/>God knows) proclaimed us for Plotters, and numbred us amongſt Conſpirators, though in their Conſciences Gods righteous Witneſs hath before this day born teſtimony to our innocency herein?</p>
+            <p>I ſay, Conſider Friends, Hath our deportment amongſt you deſer<g ref="char:EOLhyphen"/>ved no better than this hard meaſure from you, to be thus unworthily impriſoned by you? Yea, how many of us in ſeveral places of the Na<g ref="char:EOLhyphen"/>tion have upon this Proclamation been knockt down and ſorely wounded by the ſeed of evil-doers? Have not all the clamours and loud out-cryes of our Enemies vaniſhed like ſmoak? And doth not our innocency appear to all ſober people? Have we ever given you any juſt cauſe to be jealous of us, or that you ſhould give ſo little cre<g ref="char:EOLhyphen"/>dit to us? Wherein have we ſo heinouſly offended you, that we ſhould be thus unkindly dealt with by you? What's our offence? <hi>Is Inno<g ref="char:EOLhyphen"/>cency become a Crime?</hi> Is it becauſe we cannot bow unto you, nor with flattering Titles complement you, but deal plainly with you, and for your vanity, in love reprove you? Doth this render us ſo vile in your eyes? Then verily we muſt be more vile ſtill.</p>
+            <p>You who have had dealings with us, have you ever found <hi>Treachery</hi> in us, or met with <hi>falſhood</hi> from us, that you ſhould judge ſo unchari<g ref="char:EOLhyphen"/>tably of us? If Gods witneſs in you give a good teſtimony for us, be not you bitter in your minds towards us, nor ſo fill'd with <hi>Paſſion</hi> and <hi>Prejudice</hi> againſt us, but let Bowels of love be in you for us; and for the time to come be not ſo backward or unwilling to have a good opi<g ref="char:EOLhyphen"/>nion of us, nor ſo ready to receive lying Reports that ſhall be raiſ'd againſt us; if we were of the World, the World would love us, for the World loves its own; but we are not of the World, therefore the World hates us.</p>
+            <p>If we have lived peaceably amongſt you, and walked inoffenſively towards you, why ſhould we be ſo deprived of our Priviledges by you? Have we forfeited our Liberties, Lives, and Eſtates by Treachery a<g ref="char:EOLhyphen"/>gainſt you, or by any averſneſs to the Peace and Proſperity of our Countrey? Convince us of error before you thus unreaſonably con<g ref="char:EOLhyphen"/>demn us. Have we not as good right and priviledge to aſſemble to<g ref="char:EOLhyphen"/>gether in the fear of the Lord in our own hired Houſes, there to wait upon and worſhip the living God, as you have to reſort unto the Houſe of <hi>Rimmon?</hi> May the wilde and the wanton meet by hundreds, if not thouſands, together in your <hi>Steeple-houſes,</hi> and muſt the little harmleſs Flock be ſhut up in a <hi>Pinfold,</hi> and caged up in a Priſon, and not meet above three or four together? How comes this to paſſe? Come, ſhew us our Crime, <hi>if you can;</hi> or deal more candidly with us, <hi>if you can<g ref="char:EOLhyphen"/>not:</hi> for we have neither loſt our Underſtanding, nor forfeited our Freedom: though Man ſeek to imbondage us, yet the Beaſt muſt not</p>
+            <p>
+               <pb n="4" facs="tcp:101212:3"/>In Gods eternal Light we ſee our Duty, Right and Priviledge to aſſemble together to worſhip our God, <hi>Heb.</hi> 10.25. and know full well what that is which ſeeks to hinder us, and would limit the breathing Seed of Eternity to <hi>Time</hi> and <hi>Place;</hi> and we are not afraid to publiſh this unto you the Sons and Daughters of <hi>Moderation,</hi> that 'tis the old Dragon who ſeeks to devour the Seed of <hi>Innocency</hi> both in you and us, if the Power of the Lord ſhould not reſtrain him: But our Truſt and Confidence is in the living God, who can put a Hook in the Noſtrils of this <hi>Leviathan,</hi> and ſhoot the Arrows of his Wrath into the Bowels of him, and wound the Head of the Wicked, as it pleaſeth him.</p>
+            <p>But if our God do ſuffer that dark ſeed, which hath now dominion, to make further ſhipwrack of their Conſciences, and ſtill to oppreſſe his Innocent People, in the ſtrength of our God we ſhall encounter him, and <hi>without Sword</hi> or <hi>Spear,</hi> or <hi>any carnal weapon,</hi> in <hi>patience</hi> conquer and overcome him; for we have learn'd to give our backs unto the ſmiter, our goods to the ſpoyler, and our cheeks to him that plucketh off the hair, until we have finiſhed the Teſtimony which our God ſhall give unto us for his Truth; for we may not betray that which God hath committed to us, nor ſeek to make our Peace with Man, by ſinning againſt God. Could we <hi>temporize</hi> as others do, Pri<g ref="char:EOLhyphen"/>ſons then could not be our Portion: We cannot bow to the Will of Man, where it commands what is contrary to our God.</p>
+            <p>Is it lawful for the <hi>wild Bruits, Drunkards, Whoremongers, Idolaters, Swearers,</hi> and all ſorts of prophane people, to repair by thouſands to your <hi>Steeple-houſes,</hi> and may not the Sons of <hi>Innocency,</hi> Gods harmleſs Flock, meet together in the fear of the Lord, in their own <hi>hired houſes</hi> above three or four in number, but ſuch ſnares muſt be ſpread for their feet? Doth this advance the Honour of your King, thus to favour the <hi>Brats of Babylon,</hi> and diſcountenance the <hi>Children of Sion?</hi> doth not the All-ſeeing Eye diſcern all the crooked windings of his Enemy? Will he not ariſe in his fury, and fall upon his Adverſaries, if they go on in perſecuting his People? Can they make reſiſtance againſt him? Are they able to give battel to him? did ever any ſtrive thus againſt him, that were not broken and confounded by him?</p>
+            <p>Alas, poor men, how I pitty you! How eaſie is it with the Lord to overturn your Mountain, and in a moment bring it to a Mole-hill? Your breath is in your noſtrils, glory not therefore in the ſtrength of <hi>Egypt,</hi> nor proceed no further in your fury againſt Gods People; for it will but aggravate your Condemnation in the Day of the Lord, and make his Judgments fall more heavily upon you when he comes to reckon with you: Have you not ſins enow beſides to anſwer for, ſuf<g ref="char:EOLhyphen"/>ficiently able (without true Repentance) to ſink you into the pit of
+<pb n="5" facs="tcp:101212:3"/>endleſs perdition, but you muſt needs pull down a greater weight of Gods wrath upon you? Ah! how doth my Soul lament and pity you, when I foreſee and conſider the flood of Miſery which is coming upon you! Then the pleading of your Loyalty to <hi>Caeſar</hi> (now uſed as a cloak for your inveterate wrath and enmity to Gods harmleſs Seed) cannot ſave you, nor all your ſmoothneſs and ſubtilty divert or bear off the ſtroak of Gods Juſtice upon you; Nor your ſwallowing, in hypocriſie and fear, the <hi>Oath of Allegiance,</hi> which is done by many of you, adde one Mite of true Comfort to you, but be a greater weight upon you, where it is taken contrary to that of God within you.</p>
+            <p>And now a few words to you that are ſo wrathful againſt us, becauſe your <hi>vain Oaths</hi> are denyed by us: <hi>
+                  <g ref="char:V">Ʋ</g>ain Oaths</hi> indeed may they well be termed by me; for our <hi>Yea</hi> and <hi>Nay</hi> is ſufficiently binding to us, <hi>and whatſoever Man requireth of us more than theſe, cometh of evil.</hi>
+            </p>
+            <p>Search the Scriptures, for they teſtifie of that Truth which here ſhall be declared unto you; Chriſt Jeſus the Lip of Truth, in his Ser<g ref="char:EOLhyphen"/>mon upon the Mount, <hi>Matth.</hi> 5. bids the People <hi>they ſhould not think that he came to deſtroy the Law or the Prophets; I am not come to deſtroy, but to fulfill,</hi> And that <hi>except their Righteouſneſs exceeded the Righte<g ref="char:EOLhyphen"/>ouſneſs of the Scribes and Phariſees, they ſhould in no wife enter into the Kingdom of Heaven.</hi> You have heard, ſaid he, <hi>that is was ſaid by them of old, <hi>Thou ſhalt not kill,</hi>
+               </hi> and <hi>whoſoever ſhall <hi>kill,</hi> ſhall be in danger of Judgment:</hi> Chriſt came not to deſtroy this Law, which in its time and place was good, which the Phariſees owned; but now he comes nearer to them, telling them, as before, <hi>Except your Righteouſneſs exceed the Righteouſneſs of the Scribes and Phariſees,</hi> (who obſerved this Law, <hi>Thou ſhalt not kill</hi>) <hi>you cannot enter into the Kingdom of Heaven; <hi>For I ſay unto you</hi>
+               </hi> (ſaith Chriſt) <hi>Whoſoever is angry with his Brother without a cauſe</hi> (Mark, this is leſſe than bodily Murder) <hi>ſhall be in danger of the Iudgment.</hi> Lo, thus Chriſt came not to deſtroy the Law, but in the bond of Love to perform or fulfil it, and ſo forbad all Anger without a cauſe, from whence the Murder hath its beginning; So Chriſt here layes his Ax to <hi>the root of the Tree,</hi> and plainly intimates unto them, the Scribes and Phariſees kept to the Law, <hi>Thou ſhalt not kill;</hi> but they who would be Chriſtians, or Chriſts Diſciples muſt come nearer to him, and <hi>not be angry without a cauſe,</hi> and ſo <hi>exceed the righte<g ref="char:EOLhyphen"/>ouſneſs of the Scribes and Phariſees,</hi> or <hi>elſe they could not enter into the Kingdom of heaven.</hi> And ſo he goes on in ſeveral other things, as in that other Commandment, <hi>Thou ſhalt not commit adultery,</hi> Chriſt came not to deſtroy this Law, but to fulfil it, and lay a ſtricter Command upon the ſoul than the actual committing of luſt; <hi>But I ſay unto you</hi> (ſaith Chriſt) <hi>Whoſoever looks upon a woman to luſt after her, he hath al<g ref="char:EOLhyphen"/>ready
+<pb n="6" facs="tcp:101212:4"/>committed adultery with her in his heart,</hi> &amp; ſo they were to exceed the righteouſneſs of the Scribes and Phariſees (who kept to the Com<g ref="char:EOLhyphen"/>mandment <hi>Thou ſhalt not commit adultery</hi>) or elſe <hi>they could not enter into the Kingdom of Heaven, whilſt they looked upon a woman to luſt after her.</hi>
+            </p>
+            <p>Thus the Spirit of Chriſt gives not any liberty to luſt, nor toleration to prophane wanton minds or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eared conſciences; but calls for Holi<g ref="char:EOLhyphen"/>neſs of life, to walk in the ſtrait and narrow Gare, which is the Path to everlaſting Peace. You have heard, ſaith he, that it hath been ſaid by them of old time, <hi>Thou ſhalt not forſwear thy ſelf, but ſhalt perform unto the Lord thine Oaths.</hi> This the Scribes and Phariſees might reach un<g ref="char:EOLhyphen"/>to, and live in the obedience to this Law, <hi>But I ſay unto you</hi> ſaith Chriſt, (<hi>Except your righteouſneſs exceed the righteouſneſs of the Scribe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Pha<g ref="char:EOLhyphen"/>riſees,</hi> whom he doth not accuſe that they ſware falſly, as many now ordinarily do, <hi>you cannot enter into the Kingdom of Heaven,</hi> and there<g ref="char:EOLhyphen"/>fore) <hi>Swear not at all.</hi>
+            </p>
+            <p>Come let us Reaſon together and expoſtulate a little about this matter: Will it be counted a Crime if in true wiſdom I rightly weigh theſe words of Chriſt, &amp; paraphraſe a little upon his Divine Precept? Chriſt doth not here only comand the people to avoid <hi>all vain Oaths</hi> in their <hi>idle talk and communication,</hi> which I do not read nor believe the Scribes and Phariſees <hi>were guilty of,</hi> but rather judge they were herein (as in many other things) above and a ſhame unto many thou<g ref="char:EOLhyphen"/>ſands in the Nation who would be counted Chriſtians; but he mounts up to a higher pitch, and with his Rod of Authority reacheth to the Scribes and Phariſees, amongſt whom (under the Law it might be lawful (for the ending of all controverſies) they living in the nature where ſtrife and contention had dominion) to give in their teſtimo<g ref="char:EOLhyphen"/>ny upon Oath, and ſo to ſwear in truth and righteouſneſs. To ſuch it was ſaid by them of old, <hi>Thou ſhalt not forſwear thy ſelf.</hi> Now Chriſt he cometh not to deſtroy the teſtimony of Truth, but to fulfil the Law and the Prophets; and ſo tells the people in another place, <hi>Strait is the Gate, and narrow is the Way which leads to life:</hi> And here he adds, <hi>Except your Righteouſneſs exceed the Righteouſneſs of the Scribes and Phariſees,</hi> who not being truly com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Chriſt, lived under the Law, and ſo under the Adminiſtration of an Oath for the ending of ſtrife, and ſo were not to forſwear themſelves, except they came to the end of all Oaths, &amp; to let their <hi>Yea</hi> be <hi>Yea,</hi> and their <hi>Nay Nay in all things,</hi> they <hi>could not enter into the Kingdom of Hea<g ref="char:EOLhyphen"/>ven:</hi> And therefore ſaith Chriſt, <hi>Swear not at all.</hi> Lo this is the Royal Mandate of <hi>Sions</hi> King, and do not all his Subjects owe Alle<g ref="char:EOLhyphen"/>giance and true ſubjection unto him? <hi>Let your</hi> Yea <hi>be</hi> Yea (ſaith he) <hi>and your</hi> Nay Nay <hi>in all things, <hi>for whatſoever is more than theſe com<g ref="char:EOLhyphen"/>eth of evil.</hi>
+               </hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:101212:4"/>
+               <hi>In all things?</hi> Then certainly in giving in Evidence and Teſti<g ref="char:EOLhyphen"/>mony betwixt man and man, and in promiſing obedience to all the lawful Commands of Authority.</p>
+            <p>
+               <hi>For whatſoever is more than theſe</hi> (<hi>YEA</hi> and <hi>NAY</hi>) <hi>cometh of evil. <hi>Saiſt thou ſo Lord, and ſhall not we be concluded by thee? Let my Tongue cloave to the Roof of my mouth, if I ever further diſpute it with thee: O Lord I do herein believe thee, and ſubmit unto thee: Henceforth O Lord through thy aſſiſtance to me, all Oaths ſhall be denyed for ever by me, both before Authority, and in my familiar Talk. O bleſſed Lord, O thou Immaculate Lamb of God without ſpot or wrinkle, the true Iſraelite indeed in whom there was never ſound guile; haſt thou ſet ſorth thy Royal Pleaſure in the Scriptures of Truth, and publiſhed thy Proclamation to all thy Subjects which prohibiteth</hi> all ſwearing, <hi>in ſuch expreſs words as none but the dark Generation, or who are wilfully blind can juſtly plead ignorance that read thy words,</hi> I ſay unto you, Swear not at all, <hi>&amp;c.</hi> but let your Yea, be Yea, and your Nay, Nay; for whatſoever is more than theſe, cometh of evil? <hi>And ſhall Sions children, thy own Seed be diſobe<g ref="char:EOLhyphen"/>dient or rebellious to thee? O be that far from us! How can we love thee if we keep not thy Commandements? Lord we are clearly ſatiſfied in our own ſouls that thou requireſt Obedience from us as to this particular Precept, and do well know as thou haſt rightly ſpoken,</hi> Whatſoever is more than Yea and Nay cometh of evil.</hi>
+            </p>
+            <p>
+               <hi>Therefore O Lord do we hend unto thee in this thy holy Commandment; for thou art Righteous altogether in all thy Requirings, and thou woula'ſt be iuſtified in thy judging of us; yea, in our own Conſciences we ſhould be condemned from thy preſence, if</hi> (ſince thou haſt convinced us we ought not to Swear at all) <hi>we ſhould out of a ſlaviſh fear to ſave ſelf, wilfully vi<g ref="char:EOLhyphen"/>olate and tranſgreſs thy Royal Law, which thy bleſſed Apoſtle</hi> James <hi>very earneſtly preſſed the people to obey, <hi>Above all things, my Brethren, ſwear not</hi> &amp;c. <hi>leſt you fall into Condemnation.</hi> Yea, Lord, we know many of thy choſen and peculiar people before us, who ſuffered Martyrdom for thy Truth, have in Obedience unto thy Command kept to thy Doctrine, and de<g ref="char:EOLhyphen"/>nyed to <hi>Swear at all;</hi> and muſt we be counted unworthy to live upon thy Earth (by thoſe who would be counted Chriſtians too) becauſe we dare not tranſgreſsthy Righteous Law? Then Lord we will be contented to bear with patience the Wrath and Indignation of thy Enemies; and if our Obedience unto thee render us ſo vile to thy Adverſaries,</hi> Lord let us be more vile ſtill, <hi>and yet obedient unto Englands King, or any other Authority in <hi>all lawful Commands,</hi> Thou knoweſt our Innocency Lord, that we cannot Plot, but deſire to live peaceably under Authority, and ſhall never uſe <hi>out<g ref="char:EOLhyphen"/>ward violence,</hi> nor handle <hi>a carnal Weapon,</hi> nor countenance any Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="8 letters">
+                     <desc>〈8 letters〉</desc>
+                  </gap> Plot or Rebellion againſt</hi> Ceſar <hi>or the Government: and to this
+<pb n="8" facs="tcp:101212:5"/>ſhall <hi>our Yea</hi> be as binding unto us, as all the Oaths or Bonds of the Heathen unto them. And if the tongue of Men or Angels ſhould ſeek to inſinuate any other Doctrine into us, contrary to this Command of Chriſt, <hi>Swear not at all,</hi> in the fear of the Lord we ſhall bid defiance to it, and reject it. Let all the Angels in Heaven worſhip thee.</hi>
+            </p>
+            <p>
+               <hi>So in the integrity of our hearts, O Lord, we are given up patiently to ſuffer what thou ſhalt ſuffer the Adverſaries of thy Peoples Peace to im<g ref="char:EOLhyphen"/>poſe upon us for our Obedience unto thee: Thou knoweſt Lord we are a harm<g ref="char:EOLhyphen"/>leſs peaceable people, and have none to plead our Cauſe but thee; and Lord we know thou art Alſufficient, thou canſt work deliverance for thy ſuffering Seed as it pleaſeth thee; therefore will we put our truſt in thee: Thou know<g ref="char:EOLhyphen"/>eſt we deſire the peace and welfare of all men, yea, the inward good and out<g ref="char:EOLhyphen"/>ward peace and proſperity of our Enemies as ſhall ſeem good unto thee. Lord open thou their underſtanding, that they may ſee whom it is they perſecute; bring them O Lord out of Darkneſs into thy Light, and from the Power of Satan</hi> (from whence all Perſecution ever roſe) <hi>unto thee O God. Do good in thy good time O Lord to all that through ignorance have done wrong to us.</hi> Righteous Father, <hi>Do thou for give them, for they know not what they do. Bring them Lord to thy righteous Law in their hearts, thy Light in their conſciences, thy Immortal Seed, which never ſinn'd againſt thee; that they may ceaſe from their iniquities, and be reconciled unto thee. Lord grant in thy Light they may wait upon thee, that their iniquities may be pardoned by thee. And as for that Mountain of iniquity, which is in rebellion againſt thee, and boaſts in its own ſtrength as if it never could be moved, and thirſts for the blood of thy innocent Babes</hi> (God eternal keep them:) <hi>Drive the Flood backward, Rebuke the proud waves of the Sea, and beget a Calm: Be thou O Lord the Defender of thy harmleſs People, who art the Author of their Faith in thee: Get thy ſelf a glorious Name, and magnifie thy Almigh<g ref="char:EOLhyphen"/>ty Power in the utter overthrow of thy implacable Enemies: Shew mercy to all but that which thou haſt deſigned for Perdition: Preſerve thy own dear breathing Seed out of the Lions Paw, who have none in Heaven O Lord but thee, nor none in all the Earth we can expect deliverance from but thee: Thou Lord art Alſufficient, we look unto no other: Thou art our ſtay, thou art our ſtrength, our hope is in thee, our deliverance muſt come alone from thee; we wholly caſt our care upon thee, therefore ſhall we be ſaved by thee: Under the ſhadow of thy Wings Lord we are ſafe, and all the ravening Beaſts of the field cannot make us afraid. Glory, Glory, everlaſting Praiſes from thy Immortal Seed be given unto thee alone, who onely art worthy to be ho<g ref="char:EOLhyphen"/>noured, God over all, Bleſſed for ever.</hi>
+            </p>
+            <closer>
+               <signed>By a Sufferer for Truths ſake, in the City-Priſon at <hi>Lincoln.</hi>
+               </signed>
+               <dateline>Lincoln, <date>18th <hi>day, laſt month,</hi> 1660.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:101212:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
